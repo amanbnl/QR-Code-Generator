@@ -15,4 +15,4 @@ Simple app to generate and download a QR code that can be used to share a link.
 💼 Linkedin [@AmandeepSingh](https://www.linkedin.com/in/amandeep-singh-24a82b247/)
 
 ## License
-MIT &copy; [Ranjeet Singh](https://github.com/ranjeetsinghbnl)
+MIT &copy; [Amandeep Singh](https://github.com/amanbnl)
